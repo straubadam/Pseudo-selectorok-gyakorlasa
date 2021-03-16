@@ -1,0 +1,16 @@
+body {
+    width: 400px;
+}
+
+#elsodoboz, #masodikdoboz, #harmadikdoboz, #negyedikdoboz {
+    border: solid 1px black;
+    height: 120px;
+    border-top: 0;
+    padding: 30px 20px 10px 20px;
+    overflow: auto;
+    
+}
+
+div:hover {
+    background-color: orange;
+  }
